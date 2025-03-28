@@ -11,8 +11,13 @@ We therefore conclude that the digit span forward and age are good predictors fo
 
 **3** For the multiple regression model in question 2 (where we ran regression between the intercept and all predictor’s slopes), we used multiple t-tests. Because of this, multiple test correction would be appropriate to apply here. The Bonferroni correction is more conservative, however here the dataset is not too big so it should not make too much of a difference. However, let us test with both Bonferroni and FDR. 
 According to the table below, we can see that performing the corrections has corrected the slopes of the predictos age and digitF to become less significant. Overall however, this does not lead to any change in the conclusion we made in the regression model of question 2. 
-                Estimate     Std. Error    t value            P              P_bonf        P_fdr
+                
+				Estimate     Std. Error    t value            P              P_bonf        P_fdr
+				
 (Intercept)   -4.10761944    2.42484306    -1.6939733    0.0938892898    0.3755571593    0.1251857198
+
 rakit              0.03006905    0.03213595     0.9356829    0.3520565216    1.0000000000    0.3520565216
+
 age                0.04763839    0.01855552     2.5673434    0.0119769018    0.0479076071    0.0239538035
+
 digitF            0.31847027    0.08136944     3.9138806    0.0001812006    0.0007248024    0.0007248024
