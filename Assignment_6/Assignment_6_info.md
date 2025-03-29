@@ -6,7 +6,7 @@ _**Figure 1.** Scatterplots depicting each mouse's protein levels per condition.
 
 <img width="236" alt="Image" src="https://github.com/user-attachments/assets/d3b4eedf-b368-4e1c-817d-ef89b2a8a73d" />
 
-_**Figure 2.**Figure 2. Histograms depicting protein level densities per condition._ 
+_**Figure 2.** Histograms depicting protein level densities per condition._ 
 
 Looking at the scatterplot in Figure 1 we see there is some variation of protein X levels within mice conditions and also some between mice conditions. We do expect the ICC to be low because the variation that we see in the total data set is not that different from the variation that we see in each cluster (i.e., in each mouse).
 
