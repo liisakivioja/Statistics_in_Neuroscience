@@ -1,2 +1,2 @@
 # Statistics_in_Neuroscience
-Masters course.
+Portfolio of the weekly assignments during a Masters course revolving around using statistics in neuroscience data analysis.
